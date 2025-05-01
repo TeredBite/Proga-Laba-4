@@ -1,0 +1,80 @@
+Smith J.
+Johnson A.
+1500.50
+2024 01 15
+Williams B.
+Brown C.
+2300.00
+2024 02 10
+Johnson A.
+Smith J.
+1750.75
+2023 12 05
+Brown C.
+Davis D.
+980.00
+2023 11 20
+Smith J.
+Davis D.
+4500.10
+2024 03 01
+Davis D.
+Smith J.
+1200.00
+2023 10 30
+Johnson A.
+Davis D.
+3100.60
+2024 04 12
+Davis D.
+Johnson A.
+2700.00
+2024 05 01
+Smith J.
+Davis D.
+500.25
+2023 09 15
+Johnson A.
+Smith J.
+890.40
+2023 08 22
+Davis D.
+Brown C.
+150.00
+2024 01 05
+Brown C.
+Smith J.
+2200.00
+2023 07 10
+Smith J.
+Johnson A.
+3300.15
+2024 02 28
+Johnson A.
+Brown C.
+4100.00
+2023 06 18
+Davis D.
+Johnson A.
+760.90
+2024 03 25
+Brown C.
+Davis D.
+1340.00
+2023 05 05
+Smith J.
+Johnson A.
+2890.70
+2023 04 12
+Johnson A.
+Smith J.
+950.55
+2024 04 08
+Davis D.
+Smith J.
+680.30
+2023 03 22
+Brown C.
+Johnson A.
+1740.00
+2024 05 02
